@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedr0R
 - 👀 I’m interested in learn to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pedroramos327698@gmail.com
 
