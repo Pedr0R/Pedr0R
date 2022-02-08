@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn to code
 - 🌱 I’m currently learning Python, Javascript, css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: pedroramos327698@gmail.com
+- 📫 How to reach me: pramossilva@gmail.com
+- 🐦 Twitter: @PedroRS0301
 
 <!---
 Pedr0R/Pedr0R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
