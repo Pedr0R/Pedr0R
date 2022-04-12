@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pedr0R
+## 👋 Hi, I’m @Pedr0R
 - 🛠  I pretend to be a full stack developer in the future.
 - 👀 I’m interested in learn to code
 - 🌱 I’m currently learning React
