@@ -6,7 +6,7 @@
 - 📫 How to reach me: pramossilva@gmail.com
 - 🐦 Twitter: @PedroR0301
 
-* Programing languages that I'm able to work with:
+## Programing languages that I'm able to work with:
 - Python
 - Javascript
 - Node.js
