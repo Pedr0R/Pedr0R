@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m @Pedr0R
 - 🛠  I pretend to be a full stack developer in the future.
-- 👀 I’m interested in learn to code
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on group projects to get experience
 - 📫 How to reach me: pramossilva@gmail.com
 - 🐦 Twitter: @PedroR0301
 
