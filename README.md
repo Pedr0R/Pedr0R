@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Pedr0R
 - 🛠  I pretend to be a full stack developer in the future.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on group projects to get experience
 - 📫 How to reach me: pramossilva@gmail.com
 - 🐦 Twitter: @PedroR0301
@@ -12,6 +12,7 @@
 - Reactjs
 - HTML
 - CSS
+- Typescript
 
 <!---
 Pedr0R/Pedr0R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
