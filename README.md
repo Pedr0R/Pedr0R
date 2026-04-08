@@ -26,9 +26,9 @@ You can click the Preview link to take a look at your changes.
 Desenvolvedor Full-Stack apaixonado por tecnologia, esportes e resolução de problemas complexos.
 
 ## 🚀 Sobre Mim
-- 🧪 Atualmente focado em **Data Science e Generative AI**.
 - 💻 Experiência com **Python, JavaScript, TypeScript** e frameworks como **Angular, React e Node.js**.
 - 🛠️ Gosto de trabalhar com **Docker** e automação de processos.
+- 🧪 Intusiasta em **Data Science e Generative AI**.
 <!--- - 🏀 Atleta de basquete da **UVA Computing** (Rio de Janeiro) — *Go Dexter!* 🤖 --->
 
 ## 📂 Projetos em Destaque
